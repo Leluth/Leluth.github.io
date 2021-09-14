@@ -2,15 +2,15 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: "https://Leluth.github.io"
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
-timezone: Asia/Shanghai
+title: My Blog
+subtitle: "Shaoshuai Xu"
+description: "Personal blog of Shaoshuai Xu"
+keywords: Blog, Shaoshuai Xu
+timezone: America/Los_Angeles
 encoding: "utf-8"
-repository: mzlogin/mzlogin.github.io
+repository: Leluth/Leluth.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -25,35 +25,33 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: false
-        start_date: 2020-05-03
+        start_date: 2021-09-01
     # My Popular Repositories
     side_bar_repo:
         enabled: true
-        limit: 5
+        limit: 7
     # 文章字数统计
     word_count:
         enabled: true
-    # 页面右上角，以及「关于」页面的二维码
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
-        enabled: true
-        image_alt: 闷骚的程序员
+        enabled: false
+        image_alt: Shaoshuai Xu
 # 压缩页面内容
 compress_html:
   clippings: all
   comments: ["<!--", "-->"]
-# 代码高亮风格，支持的 theme 列表见 https://github.com/mzlogin/rouge-themes
 highlight_theme: github
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Shaoshuai Xu
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: Leluth
+location: Seattle, WA, USA
+email: leluthxu@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -61,11 +59,11 @@ email: chumpma@gmail.com
 navs:
   -
     href: /
-    label: 首页
+    label: Projects
 
-  -
-    href: /categories/
-    label: 分类
+#   -
+#     href: /categories/
+#     label: 分类
 
 #   -
 #     href: /archives/
@@ -75,17 +73,17 @@ navs:
 #     href: /open-source/
 #     label: 开源
 
-  -
-    href: /wiki/
-    label: 维基
+#   -
+#     href: /wiki/
+#     label: 维基
 
-  -
-    href: /links/
-    label: 链接
+#   -
+#     href: /links/
+#     label: 链接
 
   -
     href: /about/
-    label: 关于
+    label: About Me
 
 # ---------------- #
 #       RSS        #
@@ -130,17 +128,17 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
-    repo: blog-comments
+    owner: 
+    repo: 
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: 
+        client_secret: 
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    owner: Leluth
+    repo: Gitalk of Leluth Blog
+    clientID: 6071cd68e0a7a0b923e3
+    clientSecret: 60f94f231e48d83dc5fd66b1730ed07ec8a0e782
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
@@ -149,7 +147,7 @@ lazy_load_disqus : false
 # ---------------- #
 simple_jekyll_search:
     # 是否支持全文搜索
-    fulltext: false
+    fulltext: true
     # 最多显示多少条搜索结果
     limit: 10
 
