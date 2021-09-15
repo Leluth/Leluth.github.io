@@ -135,8 +135,10 @@ gitment:
         client_secret: 
 # https://github.com/gitalk/gitalk#install
 gitalk:
+    enable: true
     owner: Leluth
-    repo: Gitalk of Leluth Blog
+    admin: Leluth
+    repo: Leluth.github.io
     clientID: 6071cd68e0a7a0b923e3
     clientSecret: 60f94f231e48d83dc5fd66b1730ed07ec8a0e782
 # 在使用其它评论组件时可点击显示 Disqus
