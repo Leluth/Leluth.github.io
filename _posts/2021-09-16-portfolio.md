@@ -25,7 +25,7 @@ some statements
 
 如果有现成的独立于这些服务器节点之外的调度器就好了——顺着这个思路，就想到了已经接入的分布式任务调度平台 XXL-JOB，而在阅读其 [官方文档][1] 后发现「分片广播 & 动态分片」很贴合这种场景。
 
-![](/images/posts/java/xxl-job-sharding-broadcast.png)
+![](/images/posts/java/mobile-applications.png)
 
 ## Medical Softwares
 
