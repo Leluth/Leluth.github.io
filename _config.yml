@@ -29,7 +29,7 @@ components:
     # My Popular Repositories
     side_bar_repo:
         enabled: true
-        limit: 7
+        limit: 5
     # 文章字数统计
     word_count:
         enabled: true
@@ -88,7 +88,7 @@ navs:
 # ---------------- #
 #       RSS        #
 # ---------------- #
-subscribe_rss: /feed.xml
+# subscribe_rss: /feed.xml
 
 # ---------------- #
 #      Jekyll      #

@@ -1,6 +1,6 @@
 ---
 layout: post
-topmost: true
+topmost: false
 title: 利用 XXL-JOB 实现灵活控制的分片处理
 categories: Java Python
 description: 通过 XXL-JOB 的分片广播机制，实现灵活控制的并发数控制。
