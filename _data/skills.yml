@@ -1,11 +1,29 @@
-- name: Language Keywords
+- name: Languages
   keywords:
       - Java
       - Python
+      - C/C++
       - Go
-      - Design Patterns
+      - Dart
+      - JavaScript
+      - CSS
+      - HTML
+      - MATLAB
+      - SQL
 
-- name: Mobile Developer Keywords
+- name: Frameworks/Tools
   keywords:
-      - Android
+      - Spring
+      - Hibernate
+      - MyBatis
+      - React
+      - Vue
       - Flutter
+      - MySQL
+      - Elasticsearch
+      - Linux
+      - Git
+      - Docker
+      - Google Cloud
+      - AWS
+      - Apache Dubbo

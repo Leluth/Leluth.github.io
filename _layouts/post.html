@@ -26,6 +26,7 @@ layout: default
           {% endfor %}
           {% if site.components.word_count.enabled %}
           <span class="meta-info">
+            <br>
             <span class="octicon octicon-clock"></span>
             {% assign wordCount = page.content | strip_html | strip_newlines | number_of_words %}
             {{ wordCount }} words in total，read in {{ wordCount | divided_by: 350 | plus: 1 }} minutes

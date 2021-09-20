@@ -8,17 +8,9 @@ menu: About Me
 permalink: /about/
 ---
 
-Hi there
+## Summary
 
-## Contact Me
-
-<ul>
-<li>Email: shaoshuaixu21@gmail.com</li>
-{% for website in site.data.social %}
-<li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
-{% endfor %}
-</ul>
-
+Experienced software engineer with strong programming, analytical and mathematical skills. Has a wide range of software development internships (iFlytek, etc.) and project experience, including mobile application development with Flutter, full-stack web development with Go, React, Spring, Hibernate, 5+years of programming experience for large-scale system development.
 
 ## Skill Keywords
 
@@ -30,3 +22,21 @@ Hi there
 {% endfor %}
 </div>
 {% endfor %}
+
+## Awards
+
+- UNDP Youth Co:lab “National Dialogue”(Second Runner up of the “Start-up” Group, 2018)
+- Chinese Undergraduate Computer Design Contest (Third Prize, 2018)
+- Alibaba Cloud Campus Geek Competition (Second Prize, 2018)
+- “Chuang Qingchun” Hubei College Student Entrepreneurship Competition (Silver award, 2018)
+- SK SUNNY Happinnovator Contest (Second Prize, 2018)
+- “Seek Truth Cup” HUST Academic and Technology Works Competition (First Prize, 2019)
+
+## Contact Me
+
+<ul>
+<li>Email: shaoshuaixu21@gmail.com</li>
+{% for website in site.data.social %}
+<li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
+{% endfor %}
+</ul>
