@@ -9,7 +9,7 @@ keywords: FullStackWebsite
 
 Time: Jun.2018 - July.2018 &emsp; Location: Wuhan, China
 
-Coolme Album is a web album with social attributes, where users can upload their favorite photos and browse pictures shared by friends.
+[Coolme Album](https://github.com/Leluth/Coolme-Album) is a web album with social attributes, where users can upload their favorite photos and browse pictures shared by friends.
 
 ![@2x](/images/posts/java/album.png){:height="70%" width="70%"}
 

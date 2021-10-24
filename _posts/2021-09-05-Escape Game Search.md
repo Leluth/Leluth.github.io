@@ -9,7 +9,7 @@ keywords: MobileApp
 
 Time: Jun.2019 - July.2019 &emsp; Location: Wuhan, China
 
-EscapeGameSearch is a mobile product based on WeChat Mini Program, which provides room escape enthusiasts with a platform for searching nearby escape room games and making appointments online
+[EscapeGameSearch](https://github.com/Leluth/Escape-Game-Search) is a mobile product based on WeChat Mini Program, which provides room escape enthusiasts with a platform for searching nearby escape room games and making appointments online
 
 ![@2x](/images/posts/wechat/order1.png){:height="40%" width="40%"} ![@2x](/images/posts/wechat/order.png){:height="40%" width="40%"}
 
