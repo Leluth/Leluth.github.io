@@ -2,12 +2,12 @@
 layout: post
 topmost: false
 title: OnlineOrder
-categories: FullStackWebsite Java Spring ReactJS Hibernate
+categories: FullStackWebsite Java Spring ReactJS Hibernate AWS
 description: OnlineOrder
 keywords: FullStackWebsite
 ---
 
-Time: Jun.2020 - July.2018 &emsp; Location: Hefei, China
+Time: Jun.2021 - July.2021 &emsp; Location: Hefei, China
 
 [OnlineOrder](https://github.com/Leluth/OnlineOrder) is a web application implementing Rest API via Spring MVC including registration, menu searching, ordering, checkout, etc.
 
