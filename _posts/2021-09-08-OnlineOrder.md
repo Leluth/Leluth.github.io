@@ -16,8 +16,8 @@ And both authentication and authorization via Spring security are provided to pr
 Moreover, the Spring framework core technologies are implemented to loosely decouple all the components in the application and 
 the client-side with ReactJS and Ant Design are built to allow users to add items to the shopping cart and place orders.
 
-![@2x](/images/posts/java/onlineorder-login.png){:height="70%" width="70%"}
+![@2x](/images/posts/java/onlineorder-login.png){:height="100%" width="100%"}
 
-![@2x](/images/posts/java/onlineorder-home.png){:height="70%" width="70%"}
+![@2x](/images/posts/java/onlineorder-home.png){:height="100%" width="100%"}
 
-![@2x](/images/posts/java/onlineorder-checkout.png){:height="70%" width="70%"}
+![@2x](/images/posts/java/onlineorder-checkout.png){:height="100%" width="100%"}
