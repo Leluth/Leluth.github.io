@@ -15,6 +15,8 @@ Introduction and indexing of all of my projects
 
 ![@2x](/images/posts/portfolio/mobile-applications.png){:height="50%" width="50%"}
 
+ - [TinNews]({% post_url 2021-12-08-TinNews %})
+
  - [With U]({% post_url 2021-09-08-With U %})
 
  - [A Gesture-based Wheel-type Interaction Scheme on Android]({% post_url 2021-09-08-A Gesture-based Wheel-type Interaction Scheme on Android %})
@@ -33,7 +35,7 @@ Introduction and indexing of all of my projects
 
  - [OnlineOrder]({% post_url 2021-09-08-OnlineOrder %})
 
-- [Around]({% post_url 2021-09-10-Around %})
+ - [Around]({% post_url 2021-09-10-Around %})
 
  - [StarLink+]({% post_url 2021-09-08-StarLink+ %})
 
