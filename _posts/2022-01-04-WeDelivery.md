@@ -51,7 +51,7 @@ The demo video could be seen at [demo link](https://www.youtube.com/watch?time_c
 8. Once checkout completes, you will get an notification sent to your email address for the use of tracking your package. 
 ![mail](/images/posts/java/wedelivery-notification.png)
 
-9. You could enter the package number at welcome package or hit *Track* button on top-right corner to head into tracking page. Here you could know where your package is, and the estimated delivery time.
+9. You could enter the package number at welcome package or hit *Track* button on top-right corner to head into tracking page. Here you could know where your package is, and the estimated pick up / delivery time.
 ![track](/images/posts/java/wedelivery-tracking.png)
 
 10. Ready for your or your friend to receive the gift!
