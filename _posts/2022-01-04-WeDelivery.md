@@ -11,20 +11,11 @@ Time: Dec.2021 - Jan.2022 &emsp; Location: Seattle, USA
 
 [WeDelivery](https://github.com/Leluth/WeDelivery) is a Spring and React based dispatch & delivery management application. Our service is to use robots and drones to help users in San Francisco deliver small and medium-sized packages.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Front-end part is implemented by Javascript, CSS, html and React, backend is executed in Java environment, with assistance of libraries of Spring framework, Hibernate and Tomcat. Database used for storing users' input was established on MySQL instance of AWS RDB system.
+Front-end part is implemented by Javascript, CSS, html and React, backend is executed in Java environment, with assistance of libraries of Spring framework, Hibernate and Tomcat. Database used for storing users' input was established on MySQL instance of AWS RDB system.
 
 The introduction of details could be seen in [slides](https://github.com/Leluth/WeDelivery/blob/main/images/LaiDelivery%201.0%20Demo.pdf).
 
 The demo video could be seen at [demo link](https://www.youtube.com/watch?time_continue=1&v=04vbk0RKcxw&feature=emb_title)
-
-
-## How to run the project to launch the website
-1. Set the application server to be Tomcat > 9.0 version.
-3. The data has to be stored to [Amazon relational database service (RDS)](https://aws.amazon.com/rds/), please create your own RDS and import the data. Don't forget to change the url in the Application config file to connect to your own database.
-4. Run Maven clean and install to import all dependencies we need.
-5. Run Tomcat, wait for a couple of minutes to have the project built.
-6. Run ```npm build``` then ```npm start``` under wedelivery-app to start the frontend.
-7. Open your browser, enter http://localhost:8080/ to connect to the website, and you will see the home page
 
 ## What can we do on this website
 1. At beginning, here's the welcome page that you could start our webapp or enter a tracking number to know where your package is.![welcome](/images/posts/java/wedelivery-welcome.png)

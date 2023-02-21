@@ -33,11 +33,13 @@ Introduction and indexing of all of my projects
 
 ![@2x](/images/posts/portfolio/full-stack-website.png){:height="50%" width="50%"}
 
+ - [Anti-Asian Hate Crime Tracker]({% post_url 2023-01-15-Anti-Asian Hate Crime Tracker %})
+ 
+ - [WeDelivery]({% post_url 2022-01-04-WeDelivery %})
+ 
  - [OnlineOrder]({% post_url 2021-09-08-OnlineOrder %})
 
  - [Around]({% post_url 2021-09-10-Around %})
-
- - [WeDelivery]({% post_url 2022-01-04-WeDelivery %})
 
  - [StarLink+]({% post_url 2021-09-08-StarLink+ %})
 
